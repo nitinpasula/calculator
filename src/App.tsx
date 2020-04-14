@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./App.css";
-import { isNumber } from "util";
 
 const App: React.FC = () => {
   const [result, setResult] = useState({
